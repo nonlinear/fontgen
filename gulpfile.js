@@ -16,7 +16,7 @@ gulp.task('fontgen2', function() {
   }));
 });
 
-gulp.task('fontgen', function(callback) {
+gulp.task('default', function(callback) {
   runSequence(
     ['fontgen1'],
     ['fontgen2'],
