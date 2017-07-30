@@ -14,8 +14,8 @@
 3. Type:
 
 ```
-git clone https://github.com/lazy-8/fontgen.git ProjectName
-cd ProjectName
+git clone https://github.com/lazy-8/fontgen.git
+cd fontgen
 npm install
 ```
 
