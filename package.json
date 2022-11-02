@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "del": "^1.2.1",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-fontgen": "^0.1.6",
     "gulp-usemin": "^0.3.15",
     "gulp-useref": "^3.0.0",
